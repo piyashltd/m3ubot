@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/f7414e3fcd80.jpg" group-title="S I T Bengal",S I T Bengal 2025-11-22 Episode 78
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/74c6f33be492.mp4
-#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/9c070506f1fc.jpg" group-title="Bedeni Jyotsnar Amar Prem",Bedeni Jyotsnar Amar Prem 2025-11-22 Episode 78
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/32bec4c20c33.mp4
-#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/96b1d9747cb9.jpg" group-title="Sriman Bhogoban Das",Sriman Bhogoban Das 2025-11-22 Episode 78
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/c73040c70c64.mp4
-#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/6598de664934.jpg" group-title="Bedeni Jyotsnar Amar Prem",Bedeni Jyotsnar Amar Prem 2025-11-24 Episode 79
-https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/d76c130f6f4f.mp4
 #EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/S_I_T_Bengal_2025-11-24_Episode_79.jpg" group-title="S I T Bengal",S I T Bengal 2025-11-24 Episode 79
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/S_I_T_Bengal_2025-11-24_Episode_79.mp4
 #EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/Bedeni_Jyotsnar_Amar_Prem_2025-11-24_Episode_79.jpg" group-title="Bedeni Jyotsnar Amar Prem",Bedeni Jyotsnar Amar Prem 2025-11-24 Episode 79
@@ -15,6 +7,12 @@ https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/Bedeni_Jyotsnar_Amar
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/Sonar_Jalsaghar_2025-11-24_Episode_47.mp4
 #EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/Sriman_Bhogoban_Das_2025-11-24_Episode_79.jpg" group-title="Sriman Bhogoban Das",Sriman Bhogoban Das 2025-11-24 Episode 79
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/Sriman_Bhogoban_Das_2025-11-24_Episode_79.mp4
+#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/f7414e3fcd80.jpg" group-title="S I T Bengal",S I T Bengal 2025-11-22 Episode 78
+https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/74c6f33be492.mp4
+#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/9c070506f1fc.jpg" group-title="Bedeni Jyotsnar Amar Prem",Bedeni Jyotsnar Amar Prem 2025-11-22 Episode 78
+https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/32bec4c20c33.mp4
+#EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/96b1d9747cb9.jpg" group-title="Sriman Bhogoban Das",Sriman Bhogoban Das 2025-11-22 Episode 78
+https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/c73040c70c64.mp4
 #EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/S_I_T_Bengal_2025-11-21_Episode_77.jpg" group-title="S I T Bengal",S I T Bengal 2025-11-21 Episode 77
 https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/S_I_T_Bengal_2025-11-21_Episode_77.mp4
 #EXTINF:-1 tvg-logo="https://pub-b15a0966548f45d5a88dd1d3bc41cf6f.r2.dev/serials/thumbs/Bedeni_Jyotsnar_Amar_Prem_2025-11-21_Episode_77.jpg" group-title="Bedeni Jyotsnar Amar Prem",Bedeni Jyotsnar Amar Prem 2025-11-21 Episode 77
